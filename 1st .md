@@ -62,7 +62,8 @@ Run the following commands:
 Now that the server’s running, 
 visit http://127.0.0.1:8000/ with your web browser. You’ll see a “Congratulations!” page, with a rocket taking off. It worked!
 
-image::https://myoctocat.com/assets/images/base-octocat.svg[Django runserver]
+image:: ![image](https://user-images.githubusercontent.com/33391568/172283416-885a5cda-bbe3-4489-aad0-c1d607adc5ec.png)
+ [Django runserver]
 
 Now that your environment – a “project” – is set up, you’re set to start doing work.
 
